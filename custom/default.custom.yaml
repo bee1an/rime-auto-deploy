@@ -1,4 +1,7 @@
 patch:
+  # 方案选单快捷键 (只保留 F4，禁用 Ctrl+~)
+  "switcher/hotkeys":
+    - F4
   # 菜单
   menu:
     page_size: 8  # 候选词个数
