@@ -60,8 +60,8 @@ patch:
       inline_preedit: true # 拼音位于： 候选框 false | 行内 true
       translucency: false # 磨砂： false | true
       mutual_exclusive: false # 色不叠加： false | true
-      border_height: 1 # 外边框 高
-      border_width: 1 # 外边框 宽
+      border_height: 0 # 外边框
+      border_width: 0 # 外边框
       corner_radius: 5 # 外边框 圆角半径
       hilited_corner_radius: 5 # 选中框 圆角半径
       surrounding_extra_expansion: 0 # 候选项背景相对大小？
@@ -101,8 +101,8 @@ patch:
       inline_preedit: true # 拼音位于： 候选框 false | 行内 true
       translucency: false # 磨砂： false | true
       mutual_exclusive: false # 色不叠加： false | true
-      border_height: 1 # 外边框 高
-      border_width: 1 # 外边框 宽
+      border_height: 0 # 外边框
+      border_width: 0 # 外边框
       corner_radius: 5 # 外边框 圆角半径
       hilited_corner_radius: 5 # 选中框 圆角半径
       surrounding_extra_expansion: 0 # 候选项背景相对大小？
@@ -216,8 +216,8 @@ patch:
       corner_radius: 5 # 窗口圆角
       hilited_corner_radius: 5 # 高亮圆角
       line_spacing: 10 # 行间距(适用于竖排)
-      border_height: 4 # 窗口上下高度，大于圆角半径才生效
-      border_width: 4 # 窗口左右宽度，大于圆角半径才生效
+      border_height: 0 # 窗口上下高度
+      border_width: 0 # 窗口左右宽度
       font_face: "PingFangSC" # 候选词字体
       font_point: 21 # 候选字大小
       label_font_point: 13 # 候选编号大小
@@ -239,8 +239,8 @@ patch:
       corner_radius: 5 # 窗口圆角
       hilited_corner_radius: 5 # 高亮圆角
       line_spacing: 10 # 行间距(适用于竖排)
-      border_height: 4 # 窗口上下高度，大于圆角半径才生效
-      border_width: 4 # 窗口左右宽度，大于圆角半径才生效
+      border_height: 0 # 窗口上下高度
+      border_width: 0 # 窗口左右宽度
       font_face: "PingFangSC" # 候选词字体
       font_point: 21 # 候选字大小
       label_font_point: 13 # 候选编号大小
